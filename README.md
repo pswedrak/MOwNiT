@@ -4,5 +4,5 @@ Lab 3: in progress
 Lab 4: done  
 Lab 5: done  
 Lab 6: done  
-Lab 7: in progress  
+Lab 7: done    
 Lab 8: done    
