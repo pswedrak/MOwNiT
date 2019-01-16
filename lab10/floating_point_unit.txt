@@ -1,0 +1,8 @@
+A floating-point unit (FPU, colloquially a math coprocessor) is a part of a computer system specially designed to carry out operations on floating point numbers.[1] Typical operations are addition, subtraction, multiplication, division, square root, and bitshifting. Some systems (particularly older, microcode-based architectures) can also perform various transcendental functions such as exponential or trigonometric calculations, though in most modern processors these are done with software library routines.
+
+In general purpose computer architectures, one or more FPUs may be integrated as execution units within the central processing unit; however many embedded processors do not have hardware support for floating-point operations (while they increasingly have them as standard, at least 32-bit ones).
+
+When a CPU is executing a program that calls for a floating-point operation, there are three ways to carry it out:
+
+A floating-point unit emulator (a floating-point library)
+Add-on FPU Integrated FPU
